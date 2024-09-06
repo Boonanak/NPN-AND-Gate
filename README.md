@@ -73,6 +73,6 @@ In this AND Gate that was made using NPN transistors, the LED is only illuminate
 
 <h2>Schematic:</h2>
 
-<img src="https://github.com/user-attachments/assets/9d876b60-89a3-42f1-9eca-8894e6622eeb" height="80%" width="80%" alt="NPN-Inverter"/>
+<img src="https://github.com/user-attachments/assets/93deaf3a-6cfe-4d35-8155-6f122edc2fea" height="80%" width="80%" alt="NPN-Inverter"/>
 <br />
 <br />
